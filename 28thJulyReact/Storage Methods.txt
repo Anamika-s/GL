@@ -1,0 +1,10 @@
+https://www.xenonstack.com/insights/local-vs-session-storage-vs-cookie
+
+
+What is the difference between cookies and local storage and session storage?
+Image result for local storage vs session storage vs cookies
+Local storage and session storage both provide a large memory capacity. To be more specific, local Storage stores up to 10 megabytes and session storage stores up to 5 megabytes. On the other hand, cookies provide a very restrictive and small storage capacity of 4 kilobytes.
+
+https://www.geeksforgeeks.org/difference-between-local-storage-session-storage-and-cookies/
+
+
