@@ -1,0 +1,2 @@
+saga > https://medium.com/@ravindermahajan/why-use-redux-saga-f3413a3f7e34s
+takeEvery  > https://redux-saga.js.org/docs/basics/UsingSagaHelpers/
